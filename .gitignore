@@ -4,6 +4,8 @@
 .flutter-plugins-dependencies
 firebase_1.iml
 analysis_options.yaml
+test/
+ios/
 
 # Miscellaneous
 *.class
